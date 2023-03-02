@@ -2,9 +2,9 @@
 
 
 
-This is Hoam_Asan's Github profile.
+This is my Github profile.
 
-My footsteps as software developer will be recorded here.
+Footsteps as software developer will be recorded here.
 
 <br/>
  
