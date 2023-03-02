@@ -15,7 +15,7 @@ Footsteps as software developer will be recorded here.
 
 ## Github Management Status
 
-![Hoam-Asan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoamasan&show_icons=true&theme=black)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hoamasan&show_icons=true&theme=black)
 
 <br/>
 
