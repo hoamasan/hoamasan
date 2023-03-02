@@ -1,3 +1,5 @@
+<div align="center">
+ 
 ## Welcome visitors!
 
 
@@ -44,6 +46,8 @@ Footsteps as software developer will be recorded here.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
 
+</div>
+ 
 <!--
 **DoFiReLa/DoFiReLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
