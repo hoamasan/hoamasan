@@ -20,12 +20,6 @@ Footsteps as software developer will be recorded here.
 
 <br/>
 
-## BaekJoon Online Judge Tier
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rokaf150)](https://solved.ac/rokaf150/)
-
-<br/>
-
 ## Languages & Platforms I have learned
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=C&logoColor=white)
