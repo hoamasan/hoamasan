@@ -34,17 +34,6 @@ Footsteps as software developer will be recorded here.
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoamasan&layout=compact&theme=black)
 
-## Tools I have learned
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFF1.svg?&style=for-the-badge&logo=Unity&logoColor=black)
-
-## Operating Systems I have used
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
-
 </div>
  
 <!--
