@@ -12,10 +12,6 @@ Footsteps as software developer will be recorded here.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoamasan%2Fhoamasan.git&count_bg=%2300ABFF&title_bg=%23000000&icon=sitepoint.svg&icon_color=%2300ABFF&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <br/>
 
-## Github Management Status
-
-![Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoamasan&show_icons=true&theme=black)
-
 <br/>
 
 ## Languages & Platforms I have learned
