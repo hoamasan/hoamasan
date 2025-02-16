@@ -14,7 +14,7 @@ Footsteps as software developer will be recorded here.
 
 <br/>
 
-## Languages & Platforms I have learned
+## Languages & Platforms I've learned
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
